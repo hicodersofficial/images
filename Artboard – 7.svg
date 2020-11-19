@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="198" viewBox="0 0 195 198">
+  <defs>
+    <clipPath id="clip-Artboard_7">
+      <rect width="195" height="198"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_7" data-name="Artboard – 7" clip-path="url(#clip-Artboard_7)">
+    <g id="hicoders" transform="translate(18.813 13)">
+      <text id="_" data-name="{" transform="matrix(-1, 0, 0, 1, 32.188, 105)" fill="#fff" font-size="106" font-family="FiraCode-SemiBold, Fira Code" font-weight="600"><tspan x="-31.8" y="0">{</tspan></text>
+      <text id="_2" data-name="{" transform="translate(80.188 105)" fill="#fff" font-size="106" font-family="FiraCode-SemiBold, Fira Code" font-weight="600"><tspan x="-31.8" y="0">{</tspan></text>
+      <text id="coders" transform="translate(9.188 159)" fill="#fff" font-size="41" font-family="FiraCode-SemiBold, Fira Code" font-weight="600"><tspan x="0" y="0">coders</tspan></text>
+      <circle id="Ellipse_131" data-name="Ellipse 131" cx="14" cy="14" r="14" transform="translate(154.983 11.715) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_327" data-name="Rectangle 327" width="25" height="73" rx="12.5" transform="translate(130.188 48)" fill="#fff"/>
+      <rect id="Rectangle_328" data-name="Rectangle 328" width="25" height="29" rx="12.5" transform="translate(130.188 48)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
